@@ -1,5 +1,129 @@
 {
+    "9-CBSE": {
+        "English": [
+            "Beehive - Prose - The Fun They Had",
+            "Beehive - Prose - The Sound of Music",
+            "Beehive - Prose - The Little Girl",
+            "Beehive - Prose - A Truly Beautiful Mind",
+            "Beehive - Prose - The Snake and the Mirror",
+            "Beehive - Prose - My Childhood",
+            "Beehive - Prose - Packing",
+            "Beehive - Prose - Reach for the Top",
+            "Beehive - Prose - The Bond of Love",
+            "Beehive - Prose - Kathmandu",
+            "Beehive - Prose - If I Were You",
+            "Beehive - Poem - The Road Not Taken",
+            "Beehive - Poem - Wind",
+            "Beehive - Poem - Rain on the Roof",
+            "Beehive - Poem - A Legend of the Northland",
+            "Beehive - Poem - No Men Are Foreign",
+            "Beehive - Poem - On Killing a Tree",
+            "Beehive - Poem - The Snake Tryin",
+            "Moments - Supplementary - Ishwaran the Storyteller",
+            "Moments - Supplementary - The Adventures of Toto",
+            "Moments - Supplementary - In the Kingdom of Fools",
+            "Moments - Supplementary - The Happy Prince",
+            "Moments - Supplementary - The Last Leaf",
+            "Moments - Supplementary - The House Is Not a Home",
+            "Moments - Supplementary - The Beggar"
+        ],
+        "Maths": [
+            "Number System",
+            "Polynomials",
+            "Coordinate Geometry",
+            "Linear Equations in Two Variables",
+            "Introduction to Euclid’s Geometry",
+            "Lines and Angles",
+            "Triangles",
+            "Quadrilaterals",
+            "Areas of Parallelograms and Triangles",
+            "Circles",
+            "Constructions",
+            "Heron’s Formula",
+            "Surface Areas and Volumes",
+            "Statistics",
+            "Probability"
+        ],
+        "Science": [
+            "Matter in Our Surroundings",
+            "Is Matter Around Us Pure",
+            "Atoms and Molecules",
+            "Structure of the Atom",
+            "The Fundamental Unit of Life",
+            "Tissues",
+            "Diversity in Living Organisms",
+            "Motion",
+            "Force and Laws of Motion",
+            "Gravitation",
+            "Work and Energy",
+            "Sound",
+            "Why Do We Fall Ill?",
+            "Natural Resources",
+            "Improvement in Food Resources"
+        ],
+        "Democratic Politics - I (Civics)": [
+            "What is Democracy? Why Democracy?",
+            "Constitutional Design",
+            "Electoral Politics",
+            "Working of Institutions",
+            "Democratic Rights"
+        ],
+        "Economics": [
+            "The Story of Village Palampur",
+            "People as Resource",
+            "Poverty as a Challenge",
+            "Food Security in India"
+        ],
+        "Contemporary India - I (Geography)": [
+            "India - Size and Location",
+            "Physical Features of India",
+            "Drainage",
+            "Climate",
+            "Natural Vegetation and Wild Life",
+            "Population"
+        ],
+        "India and the Contemporary World - I (History)": [
+            "The French Revolution",
+            "Socialism in Europe and the Russian Revolution",
+            "Nazism and the Rise of Hitler",
+            "Forest Society and Colonialism",
+            "Pastoralists in Modern World"
+        ]
+    },
     "10-CBSE": {
+        "Algebra": [
+            "Polynomials",
+            "Linear Equations in two variables",
+            "Quadratic Equations",
+            "Arithmetic Progression"
+        ],
+        "Chemical substances": [
+            "Chemical Reactions and Equations",
+            "Acids, Bases and Salts",
+            "Metals and Non-metals",
+            "Carbon and its compounds"
+        ],
+        "Contemporary India - II ": [
+            "Resources and Development",
+            "Forest and Wildlife resources",
+            "Water resources",
+            "Agriculture",
+            "Minerals and Energy resources",
+            "Manufacturing industries",
+            "Lifelines of the national economy",
+            "Interdisciplinary project"
+        ],
+        "Coordinate Geometry": [
+            "Distance formula",
+            "Section formula"
+        ],
+        "Democratic Politics - II (Civics)": [
+            "Power sharing",
+            "Federalism",
+            "Gender, Religion and Caste",
+            "Political Parties",
+            "Outcomes of Democracy"
+        ],
         "Economics": [
             "Development",
             "Sectors of the Indian Economy",
@@ -32,162 +156,94 @@
             "Footprints without Feet - Poem - The Thief's Story",
             "Footprints without Feet - Poem - The Midnight Visitor",
             "Footprints without Feet - Poem - A Question of Trust",
-            "Footprints without Feet - Poem - Footprints Without Feet",
+            "Footprints without Feet - Poem - Footprints without Feet",
             "Footprints without Feet - Poem - The Making of a Scientist",
             "Footprints without Feet - Poem - The Necklace",
+            "Footprints without Feet - Poem - The Hack Driver",
             "Footprints without Feet - Poem - Bholi",
-            "Footprints without Feet - Poem - The Book that Saved the Earth"
+            "Footprints without Feet - Poem - The Book That Saved the Earth"
         ],
-        "Geography": [
-            "Resources and Development",
-            "Forest and Wildlife resources",
-            "Water resources",
-            "Agriculture",
-            "Minerals and Energy resources",
-            "Manufacturing industries",
-            "Lifelines of the national economy",
-            "Interdisciplinary project"
+        "Geometry": [
+            "Triangles",
+            "Circles",
+            "Constructions"
         ],
-        "History": [
-            "Rise of nationalism in Europe",
+        "India and the Contemporary World - II ": [
+            "The Rise of Nationalism in Europe",
             "Nationalism in India",
-            "Making of a global world - 1",
-            "Making of a global world - 2",
-            "Age of Industrialisation",
-            "Print culture and the modern world"
+            "The Making of a Global World",
+            "The Age of Industrialisation",
+            "Print Culture and the Modern World"
         ],
-        "Maths": [
-            "Real Numbers - Fundamental theorem",
-            "Proofs of irrationality",
-            "Polynomials",
-            "Linear Equations in two variables",
-            "Quadratic Equations",
-            "Arithmetic Progression",
-            "Distance formula",
-            "Section formula",
-            "Triangles",
-            "Circles",
-            "Trigonometry - Introduction",
-            "Identities",
-            "Heights and Distances",
-            "Areas related to Circles",
-            "Surface Areas & Volume",
-            "Statistics",
-            "Probability"
-        ],
-        "Political Science": [
-            "Power sharing",
-            "Federalism",
-            "Gender, Religion & Caste",
-            "Political parties",
-            "Outcomes of democracy"
-        ],
-        "Science": [
-            "Chemical Reactions and Equations",
-            "Acids, Bases and Salts",
-            "Metals and Non-metals",
-            "Carbon and its compounds",
+        "Life Processes": [
             "Life Processes",
-            "Control and coordination in Animals and Plants",
-            "Reproduction",
-            "Heredity and Evolution",
-            "Reflection of light by curved surfaces",
-            "Refraction",
-            "Electric current and Circuits",
-            "Magnetic Effects",
-            "Our environment"
-        ]
-    },
-    "9-CBSE": {
-        "Economics": [
-            "The Story of Village Palampur",
-            "People as Resource",
-            "Poverty as a Challenge",
-            "Food Security in India"
-        ],
-        "English": [
-            "Beehive - Prose - The fun they had",
-            "Beehive - Prose - The sound of Music",
-            "Beehive - Prose - The little girl",
-            "Beehive - Prose - A truly beautiful mind",
-            "Beehive - Prose - The snake and the mirror",
-            "Beehive - Prose - My childhood",
-            "Beehive - Prose - Reach for the top",
-            "Beehive - Poem - The road not taken",
-            "Beehive - Poem - Wind",
-            "Beehive - Poem - Rain on the roof",
-            "Beehive - Poem - The Lake isle of Innisfree",
-            "Beehive - Poem - A legend of the Northland",
-            "Beehive - Poem - No men are foreign",
-            "Beehive - Poem - On killing a tree",
-            "Beehive - Poem - A slumber did my spirit seal",
-            "Moments - Prose - The lost child",
-            "Moments - Prose - The adventures of Toto",
-            "Moments - Prose - Iswaran and the storyteller",
-            "Moments - Prose - In the kingdom of fools",
-            "Moments - Prose - The Happy prince",
-            "Moments - Prose - The last leaf",
-            "Moments - Prose - The house is not a home",
-            "Moments - Prose - The beggar"
-        ],
-        "Geography": [
-            "India",
-            "Physical Features of India",
-            "Drainage",
-            "Climate",
-            "Natural Vegetation and Wildlife",
-            "Population"
-        ],
-        "History": [
-            "The French Revolution",
-            "Socialism in Europe and the Russian Revolution",
-            "Nazism and the Rise of Hitler",
-            "Forest Society and Colonialism",
-            "Pastoralists in the Modern World"
+            "Control and Co-ordination",
+            "How do Organisms Reproduce?",
+            "Heredity and Evolution"
         ],
         "Maths": [
-            "Number System",
-            "Polynomials",
-            "Coordinate Geometry",
-            "Linear Equations in Two Variables",
-            "Introduction to Euclid\u2019s Geometry",
-            "Lines and Angles",
-            "Triangles",
-            "Quadrilaterals",
-            "Areas of Parallelograms and Triangles",
-            "Circles",
-            "Construction",
-            "Heron\u2019s Formula",
+            "Real Numbers",
+            "Introduction to Trigonometry",
+            "Some Applications of Trigonometry",
+            "Areas Related to Circles",
             "Surface Areas and Volumes",
             "Statistics",
             "Probability"
         ],
-        "Political Science": [
-            "What is Democracy? Why Democracy?",
-            "Constitutional Design",
-            "Electoral Politics",
-            "Working with Institutions",
-            "Democratic Rights"
+        "Natural Phenomena": [
+            "Light – Reflection and Refraction",
+            "Human Eye and Colourful World"
+        ],
+        "Natural Resources": [
+            "Management of Natural Resources"
         ],
         "Science": [
-            "Matter in Our Surroundings",
-            "Is Matter Around Us Pure",
-            "Atoms and Molecules",
-            "Structure of the Atom",
-            "The Fundamental Unit of Life",
-            "Tissues",
-            "Diversity in Living Organisms",
-            "Motion",
-            "Force and Laws of Motion",
-            "Gravitation",
-            "Work and Energy",
-            "Sound",
-            "Why Do We Fall Ill?",
-            "Natural Resources",
-            "Improvement in Food Resources"
+            "Electricity",
+            "Magnetic Effects of Current"
+        ],
+        "The World of the Living": [
+            "Our Environment"
         ]
     },
     "9-TNState": {
+        "Maths": [
+            "Sets",
+            "Real Numbers",
+            "Algebra",
+            "Geometry",
+            "Coordinate Geometry",
+            "Trigonometry",
+            "Mensuration",
+            "Statistics",
+            "Probability"
+        ],
+        "Science": [
+            "Measurement",
+            "Laws of Motion",
+            "Kinematics",
+            "Sound",
+            "Electricity",
+            "Magnetism",
+            "Light",
+            "Chemical Bonding",
+            "Atomic Structure",
+            "Periodic Classification of Elements",
+            "Metals and Non-metals",
+            "Carbon and its Compounds",
+            "Heredity and Evolution",
+            "Reproduction in Plants",
+            "Reproduction in Animals",
+            "Nutrition in Plants",
+            "Nutrition in Animals",
+            "Health and Hygiene",
+            "Environmental Management",
+            "Waste Management",
+            "Disaster Management",
+            "First Aid",
+            "Safety",
+            "Basic Computer Science",
+            "Interdisciplinary Project"
+        ],
         "English": [
             "Unit 1 - Prose - Learning the game",
             "Unit 1 - Poem - Stopping by woods on a Snowy evening",
@@ -208,8 +264,133 @@
             "Unit 6 - Poem - The comet",
             "Unit 6 - Supplementary - Mother's voice",
             "Unit 7 - Prose - A birthday letter",
-            "Unit 7 - Poem - The stick together families",
-            "Unit 7 - Supplementary - Christmas truce"
+            "Unit 7 - Poem - The difference between",
+            "Unit 7 - Supplementary - The man who planted trees"
+        ],
+        "History": [
+            "Evolution of humans and society - Prehistoric period",
+            "Ancient Civilizations",
+            "Early Tamil Society and Culture",
+            "Intellectual Awakening and Socio-Political Changes",
+            "Classical World",
+            "The Age of Revolutions",
+            "Geography of Ancient Tamilagam",
+            "Medieval India",
+            "India under Colonial Rule",
+            "Social Change in Colonial India",
+            "Modernisation in Europe"
+        ],
+        "Geography": [
+            "The Earth - An Introduction",
+            "Landforms",
+            "Climate",
+            "Hydrosphere",
+            "Biosphere",
+            "Man and Environment",
+            "Disaster Management",
+            "Resources",
+            "Industries",
+            "Tourism"
+        ],
+        "Civics": [
+            "Forms of Government and Democracy",
+            "Elections, Political Parties and Pressure Groups",
+            "Human Rights",
+            "Forms of Government and Democracy",
+            "Road Safety"
+        ],
+        "Economics": [
+            "Understanding Development: Perspectives, Measurement and Sustainability",
+            "Employment in India and Tamil Nadu",
+            "Money and Credit",
+            "Government and Taxation",
+            "Road Safety"
+        ]
+    },
+    "10-TNState": {
+        "Maths": [
+            "Relations and Functions",
+            "Numbers and Sequences",
+            "Algebra",
+            "Matrices",
+            "Coordinate Geometry",
+            "Trigonometry",
+            "Mensuration",
+            "Statistics and Probability"
+        ],
+        "Science": [
+            "Laws of Motion",
+            "Optics",
+            "Thermal Physics",
+            "Electricity",
+            "Atomic Structure",
+            "Periodic Classification of Elements",
+            "Chemical Reactions",
+            "Genetics",
+            "Plant Anatomy and Plant Physiology",
+            "Cell and Molecular Biology",
+            "Microbiology",
+            "Biotechnology",
+            "Health and Diseases",
+            "Environmental Science",
+            "Interdisciplinary Project"
+        ],
+        "English": [
+            "Unit 1 - Prose - His First Flight",
+            "Unit 1 - Poem - Life",
+            "Unit 1 - Supplementary - The Tempest",
+            "Unit 2 - Prose - The Night the Ghost Got In",
+            "Unit 2 - Poem - The Grumbles",
+            "Unit 2 - Supplementary - Zigzag",
+            "Unit 3 - Prose - Empowered Women Navigating the World",
+            "Unit 3 - Poem - I Am Every Woman",
+            "Unit 3 - Supplementary - The Story of the Race",
+            "Unit 4 - Prose - The Attic",
+            "Unit 4 - Poem - Manliness",
+            "Unit 4 - Supplementary - The Earthen Pot",
+            "Unit 5 - Prose - The Concert",
+            "Unit 5 - Poem - Where the Mind Is Without Fear",
+            "Unit 5 - Supplementary - A Day in 2889 of an American Journalist",
+            "Unit 6 - Prose - Last Lesson",
+            "Unit 6 - Poem - No Men Are Foreign",
+            "Unit 6 - Supplementary - The Little Hero of Holland",
+            "Unit 7 - Prose - The Last Leaf",
+            "Unit 7 - Poem - The House on Elm Street",
+            "Unit 7 - Supplementary - The Adventure of Mulan"
+        ],
+        "History": [
+            "Outbreak of World War I and its aftermath",
+            "The world between two world wars",
+            "World War II",
+            "The Age of Imperialism",
+            "Early revolts against British rule in Tamilnadu",
+            "Anti colonial movements and the Birth of Nationalism",
+            "Nationalism - Gandhian Phase",
+            "Freedom Struggle in Tamilnadu",
+            "Social transformation in Tamilnadu"
+        ],
+        "Geography": [
+            "Unit 1 India - Location, Relief and Drainage",
+            "Unit 2 Climate and Natural vegetation of India",
+            "Unit 3 India - Agriculture",
+            "Unit 4 India - Resources and Industries",
+            "Unit 5 India - Population, Transport, communication and Trade",
+            "Unit 6 Physical geography of Tamilnadu",
+            "Unit 7 Human Geography of Tamilnadu"
+        ],
+        "Civics": [
+            "Unit 1 Indian Constitution",
+            "Unit 2 Central Government",
+            "Unit 3 State Government",
+            "Unit 4 India's foreign policy",
+            "Unit 5 India's international relations"
+        ],
+        "Economics": [
+            "Unit 1 GDP and growth - Introduction",
+            "Unit 2 Globalisation and Trade",
+            "Unit 3 Food Security and Nutrition",
+            "Unit 4 Government and Taxation",
+            "Unit 5 Industrial Clusters"
         ]
     }
 }
